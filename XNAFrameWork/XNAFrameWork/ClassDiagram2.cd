@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Program" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game1" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAEgAAAwAAAAAAQAAEAAAAAAgAABAABACAEAQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.HandPointer" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAAAAAAAAAgAAAAAIAIAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>HandPointer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.Replay" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResultMenu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Exit" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResultMenu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.NoneCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResultMenu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.ResultMenu" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAIQAAAAgABAAEAAABAACAEAAA=</HashCode>
+      <FileName>ResultMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.Score" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Score.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.Kinect" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAACAAAEBAAAhAgEAAAAAAFAAAA=</HashCode>
+      <FileName>キネクト\Kinect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.Person" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAQAAAABAAAAACCAAQCAAIACACAAAAAAAI=</HashCode>
+      <FileName>キネクト\Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.Player" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AISABAoC4gAAI4LAAiKAwIIDAACABYAAASAAAAAigAA=</HashCode>
+      <FileName>シーン\ゲームプレイ\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.SampleScene1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEIAAIABQEQAAAEgQgAAEGgAQKAABAgBAAAAAABQ=</HashCode>
+      <FileName>シーン\ゲームプレイ\SampleScene1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Cube" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAAAoAAAAKAwIICAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\Cube.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.MainMenu" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEAAAAAAACQAAAAAIAAIEAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>シーン\メインメニュー\MainMenu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.SceneManager" Collapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEAAAAAAAAQgAAAAAAAAEAAAAACgAAAAAAAAAAAQ=</HashCode>
+      <FileName>シーンマネージャー\SceneManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.Animation" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAABoAAAALAwIICABCgAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>スキンアニメーション\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.Stage" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARIAQAAAAAIEgAAAAAIBAAAAAAAAAEABgAAAAAMAAA=</HashCode>
+      <FileName>ステージ関係\Stage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.StageData" Collapsed="true">
+    <Position X="11" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAkAABAAAAAoAAAAKAxIICAACgAABAABAAAAAAAAA=</HashCode>
+      <FileName>ステージ関係\StageData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.StageCollisionNone" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ステージ関係\当たり判定\StageCollisionNone.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.StageCollisionPart0" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ステージ関係\当たり判定\StageCollisionPart0.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.StageCollisionPart1" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ステージ関係\当たり判定\StageCollisionPart1.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.StageCollisionPart2" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ステージ関係\当たり判定\StageCollisionPart2.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.StageCollisionPart3" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ステージ関係\当たり判定\StageCollisionPart3.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.StageCollisionPart4" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ステージ関係\当たり判定\StageCollisionPart4.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.StageCollisionPart5" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ステージ関係\当たり判定\StageCollisionPart5.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.StageCollisionPart6" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>ステージ関係\当たり判定\StageCollisiontPart6.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.FPSCounter" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAgAAAAEAAACAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>フレームワーク関係\FPSカウンター\FPSCounter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.Collision" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAKAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>フレームワーク関係\あたり判定\Collision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.Camera" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQQAAEAUQEAAEEAACAAwIIgAACAAMAAAUBCAQBAAgI=</HashCode>
+      <FileName>フレームワーク関係\カメラ\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.MyKeyboard" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hAQgAAAAAAAAAAAAAAAQAAACAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>フレームワーク関係\キーボード\Keyboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.BoardTexture" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUAAAAEAAAAoAAAAKAwIICAACAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>フレームワーク関係\テクスチャ\BoardTexture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.SpriteObject" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIACAAAAAAAAAAAQAABAAAA=</HashCode>
+      <FileName>フレームワーク関係\テクスチャ\SpriteObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.TextureManager" Collapsed="true">
+    <Position X="12.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAACAAAEAAAAAAAAAAAABAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>フレームワーク関係\テクスチャ\TextureManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.DebugText" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAABAEAAAAAAAACEAAEAAA=</HashCode>
+      <FileName>フレームワーク関係\デバッグテキスト\DebugText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.LineList" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAgAAAAAAAAAAAAAQAACAAAAAAAAAAAA=</HashCode>
+      <FileName>ヘルパー\LineList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.MyMathHelper" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIABAAAAAAAAAAAACAAAAAAAAIYBAABAAAAAgAA=</HashCode>
+      <FileName>ヘルパー\MyMathHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.ModelManager" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAIAAAQBAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>モデル\ModelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.AvateerHandler" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAACgAAEEAAEACAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>モデル同期関係\AvateerHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.SkeletonHelper" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>モデル同期関係\SkeletonHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNAFrameWork.シーン.タイトル.TitleScene" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\タイトル\TitleScene.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Cube_State.Idle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\Cube.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Cube_State.Right" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\Cube.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Cube_State.Left" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\Cube.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Cube_State.Up" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\Cube.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Cube_State.Down" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\Cube.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Main_Menu_State.Idle" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\MainMenuState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Main_Menu_State.GamePlay" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\MainMenuState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Main_Menu_State.Option" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\MainMenuState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Main_Menu_State.Score" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\MainMenuState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="XNAFrameWork.Main_Menu_State.StaffCredit" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\MainMenuState.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Interface Name="XNAFrameWork.ResultCommandState" Collapsed="true">
+    <Position X="9.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ResultMenu.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="XNAFrameWork.IScene" Collapsed="true">
+    <Position X="4" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCEAAAAAAAAQAAAAAAAAAEAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>シーンマネージャー\IScene.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="XNAFrameWork.IStageCollision" Collapsed="true">
+    <Position X="5.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ステージ関係\IStageCollision.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="XNAFrameWork.IObject" Collapsed="true">
+    <Position X="2.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAKAwAICAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ヘルパー\IObject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="XNAFrameWork.Cube_State.CubeState" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\Cube.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="XNAFrameWork.Main_Menu_State.MainMenuState" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>シーン\メインメニュー\MainMenuState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="XNAFrameWork.TextureName" Collapsed="true">
+    <Position X="4" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgEAEAAAAAAAAAAACDBEAAAAABAAEAAAAAAUAAA=</HashCode>
+      <FileName>フレームワーク関係\テクスチャ\TextureManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="XNAFrameWork.ModelName" Collapsed="true">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAADwCwAAAAAQAAAAAAIAAAAAAAABgAAEAAA=</HashCode>
+      <FileName>モデル\ModelManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="XNAFrameWork.BoneType" Collapsed="true">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAIRAAAEAIAKAAIAAEAAIBABAAQIAAAgAAAAAAA=</HashCode>
+      <FileName>モデル同期関係\AvateerHandler.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="メイリオ" Size="9" />
+</ClassDiagram>
