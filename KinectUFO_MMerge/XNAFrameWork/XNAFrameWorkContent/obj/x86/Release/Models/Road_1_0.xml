@@ -1,0 +1,1215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:NodeContent">
+    <Name>RootNode</Name>
+    <Identity>
+      <SourceFilename>C:\Users\123507z\Desktop\DET (Games)\KinectUFO\XNAFrameWork\XNAFrameWorkContent\Models\Road_1.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Children>
+      <Child>
+        <Name>polySurface4565</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+        <Children>
+          <Child>
+            <Name>polySurface5234</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1683</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5235</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1670</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5236</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1669</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5237</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1656</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5240</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1657</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5241</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1658</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5243</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1667</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5244</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1668</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5245</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1671</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5246</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1672</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5247</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1681</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5248</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1682</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5249</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1698</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5250</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1697</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5251</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1684</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5252</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1685</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5253</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1696</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5254</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1699</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5255</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1700</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5256</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1695</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5257</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1686</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5260</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1702</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5261</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1693</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5262</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1688</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5263</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1679</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5264</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1665</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5265</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1674</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5266</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1660</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5267</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1661</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5268</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1664</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5269</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1675</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5270</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1678</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5271</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1689</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5272</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1692</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5273</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1703</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5276</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1662</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5277</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1663</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5278</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1676</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5279</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1677</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5280</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1690</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5281</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1691</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5282</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1704</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5285</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1659</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5286</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1673</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5287</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1666</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5288</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1680</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5289</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1687</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5292</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1701</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5293</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1694</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5505</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1622</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5624</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1601</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5625</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1600</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5626</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1599</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5627</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1598</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5628</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1597</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5629</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1596</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5630</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1595</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5631</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1594</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5632</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1593</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5633</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1592</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5634</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1591</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5635</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1590</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5636</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1589</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5637</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1588</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5638</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1587</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5639</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1586</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5640</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1585</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5641</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1584</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5872</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1621</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5873</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1620</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5874</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1619</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5875</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1618</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5876</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1617</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5877</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1616</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5878</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1615</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5879</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1614</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5880</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1613</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5881</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1612</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5882</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1611</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5883</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1610</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5884</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1609</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5885</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1608</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5886</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1607</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5887</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1606</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5888</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1605</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5889</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1604</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5890</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1603</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5891</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1602</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5912</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1625</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5914</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1623</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5915</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1630</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5916</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1628</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5917</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1627</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5918</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1631</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5919</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1633</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5920</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1632</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5921</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1637</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5922</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1639</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5923</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1638</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5924</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1636</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5925</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1643</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5926</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1642</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5927</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1645</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5928</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1647</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5929</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1641</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5930</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1644</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5931</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1640</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5932</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1635</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5933</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1634</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5934</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1648</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5935</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1646</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5982</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1626</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5983</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1629</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>polySurface5984</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+            <Children>
+              <Child>
+                <Name>transform1624</Name>
+                <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+              </Child>
+            </Children>
+          </Child>
+          <Child>
+            <Name>transform1583</Name>
+            <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+          </Child>
+        </Children>
+      </Child>
+      <Child Type="Graphics:MeshContent">
+        <Name>polySurface6085</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 -114.601448 1</Transform>
+        <Positions>-63.4999924 -0.127001166 119.444183 -63.4999924 -0.127001166 109.158691 -88.89999 -0.126999974 119.444183 -88.89999 -0.126999974 109.158691 -63.4999924 0.12699759 127.001434 -88.89999 0.126998782 127.001434 -63.4999924 0.12699759 101.60144 -88.89999 0.126998782 101.60144 -63.4999924 0.05260682 119.616074 -63.4999924 0.12699759 120.031059 -88.89999 0.126998782 120.031059 -88.89999 0.0526080132 119.616074 -63.4999924 0.12699759 108.571815 -63.4999924 0.05260682 108.9868 -88.89999 0.0526080132 108.9868 -88.89999 0.126998782 108.571815 -38.09999 -0.127002358 119.444183 -38.09999 -0.127002358 109.158691 -63.4999847 -0.127001166 119.444183 -63.4999847 -0.127001166 109.158691 -38.09999 0.1269964 127.001434 -63.4999847 0.12699759 127.001434 -38.09999 0.1269964 101.60144 -63.4999847 0.12699759 101.60144 -38.09999 0.05260563 119.616074 -38.09999 0.1269964 120.031059 -63.4999847 0.12699759 120.031059 -63.4999847 0.05260682 119.616074 -38.09999 0.1269964 108.571815 -38.09999 0.05260563 108.9868 -63.4999847 0.05260682 108.9868 -63.4999847 0.12699759 108.571815 -12.6999969 -0.127003551 119.444183 -12.7000008 -0.127002448 109.155243 -38.09999 -0.127002358 119.444183 -38.09999 -0.127002358 109.158691 -12.6999969 0.1269952 127.001434 -38.09999 0.1269964 127.001434 -12.6999969 0.1269952 101.60144 -38.09999 0.1269964 101.60144 -12.7000008 0.0613577664 119.646988 -12.7000008 0.1269925 120.013336 -38.09999 0.1269964 120.031059 -38.09999 0.05260563 119.616074 -12.7000008 0.1269944 108.492172 -12.7000008 0.04083875 108.917809 -38.09999 0.05260563 108.9868 -38.09999 0.1269964 108.571815 12.6999969 0.126992017 127.001427 5.729618 0.126992017 127.001427 5.314636 0.050395757 127.001427 5.14275 -0.413720876 127.001427 -5.142746 -0.413720876 127.001434 -5.314636 0.050395757 127.001434 -5.729618 0.126992017 127.001434 -12.7000008 0.126992017 127.001434 12.6999969 0.1269925 120.013329 5.729618 0.1269925 120.013329 5.314636 0.0503962338 120.013329 5.14275 -0.413719922 120.013329 -5.142746 -0.413719922 120.013336 -5.314636 0.0503962338 120.013336 -5.729618 0.1269925 120.013336 -12.7000008 0.1269925 120.013336 12.7000008 0.1269925 119.646973 5.729618 0.1269925 119.646973 5.314636 0.0503962338 119.646973 5.14275 -0.413719922 119.646973 -5.142746 -0.413719922 119.64698 -5.314636 0.0503962338 119.64698 -5.729618 0.0613577664 119.646988 -12.7000008 0.0613577664 119.646988 12.7000008 0.119754583 119.397675 5.729618 0.119754583 119.397675 5.314636 0.05069664 119.397675 5.14275 -0.413719922 119.397675 -5.142746 -0.413719922 119.397682 -5.314636 -0.127003878 119.397682 -5.729618 -0.127003878 119.397682 -12.6999969 -0.127003551 119.444183 12.7000008 0.11975649 109.155235 5.729618 0.11975649 109.155235 5.314636 0.05069831 109.155235 5.14275 -0.4137185 109.155235 -5.142746 -0.4137185 109.155243 -5.314636 -0.127002448 109.155243 -5.729618 -0.127002448 109.155243 -12.7000008 -0.127002448 109.155243 12.7000008 0.1269944 108.860863 5.729618 0.1269944 108.860863 5.314636 0.0503979027 108.860863 5.14275 -0.413718253 108.860863 -5.142746 -0.413718253 108.86087 -5.314636 0.0503979027 108.86087 -5.729618 0.04083875 108.917809 -12.7000008 0.04083875 108.917809 12.7000008 0.1269944 108.492165 5.729618 0.1269944 108.492165 5.314636 0.0503979027 108.492165 5.14275 -0.413718253 108.492165 -5.142746 -0.413718253 108.492172 -5.314636 0.0503979027 108.492172 -5.729618 0.1269944 108.492172 -12.7000008 0.1269944 108.492172 12.7000008 0.1269952 101.601433 5.729618 0.1269952 101.601433 5.314636 0.0503987446 101.601433 5.14275 -0.413717479 101.601433 -5.142746 -0.413717479 101.60144 -5.314636 0.0503987446 101.60144 -5.729618 0.1269952 101.60144 -12.7000008 0.1269952 101.60144 38.1 0.126992345 127.001457 38.1 0.126992345 101.601433 12.7000008 0.1269952 127.001457 12.7000008 0.1269952 101.601433 63.4999962 0.126989484 127.001457 63.4999962 0.126989484 101.601433 38.1 0.126992345 127.001457 38.1 0.126992345 101.601433 88.8999939 0.126989484 127.001457 88.8999939 0.126989484 101.601433 63.4999962 0.126992345 127.001457 63.4999962 0.126992345 101.601433</Positions>
+        <Geometry>
+          <Batch>
+            <Material>#Resource1</Material>
+            <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 13 12 4 4 5 13 3 0 12 12 13 3 15 14 1 1 2 15 8 9 14 14 15 8 18 17 16 16 19 18 22 21 20 20 23 22 26 25 24 24 27 26 29 28 20 20 21 29 19 16 28 28 29 19 31 30 17 17 18 31 24 25 30 30 31 24 34 33 32 32 35 34 38 37 36 36 39 38 42 41 40 40 43 42 45 44 36 36 37 45 35 32 44 44 45 35 47 46 33 33 34 47 40 41 46 46 47 40 50 49 48 48 51 50 48 49 52 52 53 48 56 55 54 54 57 56 60 59 58 58 61 60 64 63 62 62 65 64 68 67 66 66 69 68 69 66 70 70 71 69 51 48 72 72 73 51 72 48 53 53 74 72 75 56 57 57 76 75 77 60 61 61 78 77 79 64 65 65 80 79 81 68 69 69 82 81 82 69 71 71 83 82 73 72 84 84 85 73 84 72 74 74 86 84 87 75 76 76 88 87 89 77 78 78 90 89 91 79 80 80 92 91 93 81 82 82 94 93 94 82 83 83 95 94 85 84 96 96 97 85 96 84 86 86 98 96 99 87 88 88 100 99 101 89 90 90 102 101 102 90 93 93 103 102 103 93 94 94 104 103 104 94 95 95 105 104 97 96 106 106 107 97 106 96 98 98 108 106 109 99 100 100 110 109 111 101 102 102 112 111 115 114 113 113 116 115 117 103 104 104 118 117 118 104 105 105 119 118 107 106 120 120 121 107 120 106 108 108 122 120 123 109 110 110 124 123 125 111 112 112 126 125 127 115 116 116 128 127 129 117 118 118 130 129 130 118 119 119 131 130 121 120 132 132 133 121 132 120 122 122 134 132 135 123 124 124 136 135 137 125 126 126 138 137 139 127 128 128 140 139 141 129 130 130 142 141 142 130 131 131 143 142 146 145 144 144 147 146 150 149 148 148 151 150 154 153 152 152 155 154</Indices>
+            <Vertices>
+              <PositionIndices>0 1 3 2 9 10 5 4 15 12 6 7 8 11 13 14 16 17 19 18 25 26 21 20 31 28 22 23 24 27 29 30 32 33 35 34 41 42 37 36 47 44 38 39 40 43 45 46 57 49 48 56 50 58 51 50 58 59 52 51 59 60 53 52 60 61 54 53 61 62 55 63 65 64 66 66 67 67 68 68 69 69 70 71 73 72 74 74 75 75 76 76 77 77 78 79 81 80 82 82 83 83 84 85 86 87 89 88 90 90 91 91 92 85 84 92 93 93 94 95 97 96 98 98 99 99 100 100 101 101 102 103 105 104 106 106 107 107 108 108 109 109 110 111 112 113 115 114 116 117 119 118 120 121 123 122</PositionIndices>
+              <Channels>
+                <VertexChannel Name="Normal0" ElementType="Framework:Vector3">4.44317827E-08 0.9998525 -0.0171727017 4.776415E-08 0.9998525 0.0171727017 4.776415E-08 0.9998525 0.0171727035 4.44317827E-08 0.9998525 -0.0171727035 4.44907933E-08 0.9999493 -0.010072221 4.44907933E-08 0.9999493 -0.010072221 4.69328718E-08 0.99999994 0 4.69328718E-08 0.99999994 0 4.54804265E-08 0.9999493 0.010072221 4.54804265E-08 0.9999493 0.010072221 4.693279E-08 0.99999994 0 4.693279E-08 0.99999994 0 -2.58976538E-08 0.9177347 -0.3971938 -2.589765E-08 0.9177347 -0.39719376 4.00348839E-08 0.9177347 0.3971938 4.00348839E-08 0.9177347 0.39719376 4.4431772E-08 0.9998525 -0.0171726961 4.776414E-08 0.9998525 0.0171726961 4.776414E-08 0.9998525 0.0171726979 4.4431772E-08 0.9998525 -0.0171726979 4.44907933E-08 0.9999493 -0.010072221 4.44907933E-08 0.9999493 -0.010072221 4.69328718E-08 0.99999994 0 4.69328718E-08 0.99999994 0 4.54804265E-08 0.9999493 0.010072221 4.54804265E-08 0.9999493 0.010072221 4.693279E-08 0.99999994 0 4.693279E-08 0.99999994 0 -2.58976538E-08 0.9177347 -0.3971938 -2.589765E-08 0.9177347 -0.39719376 4.00348839E-08 0.9177347 0.3971938 4.00348839E-08 0.9177347 0.39719376 7.628985E-06 0.9998458 -0.01756199 2.815384E-05 0.99986285 0.0165583324 2.81454886E-05 0.999862969 0.016553415 7.62904938E-06 0.999845743 -0.0175621379 -6.572249E-06 0.99995476 -0.0095075015 -6.56112161E-06 0.999954939 -0.009491647 1.00251043E-07 1 -1.93626533E-07 1.00251043E-07 1 -1.936265E-07 4.54265E-05 0.99994 0.0109604886 4.5089324E-05 0.9999408 0.010879023 6.286373E-08 1 5.82380828E-08 6.28637338E-08 1 5.823808E-08 4.82510259E-05 0.9155964 -0.402098417 4.85736236E-05 0.9154182 -0.402503967 0.000929745147 0.9265479 0.376175821 0.00093021855 0.926289856 0.3768106 -0.0103708142 0.999946237 6.39876561E-08 -0.0103708068 0.9999461 6.734224E-08 0 1 6.73019045E-08 0 1 6.39492939E-08 -0.677595 0.735435247 5.74517571E-08 -0.6775947 0.7354354 5.4589858E-08 -0.0443380252 0.9990166 1.38573242E-07 -0.677595 0.735435247 5.74517571E-08 -0.6775947 0.7354354 5.4589858E-08 -0.04433803 0.9990166 1.31670348E-07 0.04433805 0.9990165 1.385732E-07 -0.0443380252 0.9990166 1.38573242E-07 -0.04433803 0.9990166 1.31670348E-07 0.0443379767 0.9990166 1.316703E-07 0.677592635 0.735437334 5.745155E-08 0.04433805 0.9990165 1.385732E-07 0.0443379767 0.9990166 1.316703E-07 0.6764803 0.73645705 -0.00232368 0.0103707928 0.9999461 6.734222E-08 0.677592635 0.735437334 5.745155E-08 0.6764803 0.73645705 -0.00232368 0.0101436628 0.999910951 -0.008668312 0 1 6.730188E-08 0 0.9999601 -0.008924077 -0.0101509541 0.999883354 -0.0114109255 0 0.9999309 -0.0117556881 -0.6766677 0.7362829 -0.00288019329 -0.6766677 0.7362829 -0.00288019329 -0.0443435274 0.9990164 4.0062464E-06 -0.0443435274 0.9990164 4.0062464E-06 0.04091209 0.99916 -0.002366155 0.04091209 0.99916 -0.002366155 0.5646188 0.7930619 -0.2286009 0.5646188 0.7930619 -0.2286009 0.0027421983 0.9206325 -0.390420765 -0.0009747216 0.919083834 -0.39406094 -0.00936305 0.9999559 -0.000669524132 0 0.9999997 -0.0006896854 -0.672699034 0.7399162 -0.000169780877 -0.672699034 0.7399162 -0.000169780877 -0.04436633 0.999015331 3.72107451E-07 -0.04436633 0.999015331 3.72107451E-07 0.0276085772 0.9996188 -0.000138772637 0.0276085772 0.9996188 -0.000138772637 0.444483846 0.8956781 -0.0139600849 0.444483846 0.8956781 -0.0139600849 -3.852439E-05 0.99984163 -0.017795017 -6.028238E-05 0.9998365 -0.0180801768 -0.00936519 0.999955952 0.000667012238 0 0.9999998 0.000687097141 -0.6727093 0.7399069 0.000169292383 -0.6727093 0.7399069 0.000169292383 -0.0443662964 0.9990154 -7.584149E-08 -0.0443662964 0.9990154 -7.584149E-08 0.0276439339 0.9996179 0.0001384756 0.445985645 0.8949425 0.0132118715 4.69796E-05 0.9998719 0.01600332 2.33833912E-08 0.9998724 0.0159782115 -0.0101321917 0.999892533 0.0105951112 0 0.9999404 0.0109150894 -0.6765692 0.7363742 0.00267467322 -0.6765692 0.7363742 0.00267467322 -0.04434427 0.9990163 -3.37328584E-06 -0.04434427 0.9990163 -3.37328584E-06 0.04058255 0.9991738 0.00219736644 0.445985645 0.8949425 0.0132118715 0.0276439339 0.9996179 0.0001384756 0.04058255 0.9991738 0.00219736644 0.5623338 0.8017147 0.202568918 0.5623338 0.8017147 0.202568918 0.00328433141 0.9344362 0.3561153 0 0.9338309 0.357714683 -0.01037084 0.9999462 1.12002418E-07 0 1 1.11903752E-07 -0.6775952 0.735434949 8.295659E-08 -0.6775952 0.735434949 8.295659E-08 -0.0443380326 0.9990165 1.02214713E-07 -0.0443380326 0.9990165 1.02214713E-07 0.0443380624 0.9990166 1.02214671E-07 0.0443380624 0.9990166 1.02214671E-07 0.675290465 0.7375454 0.00308627659 0.675290465 0.7375454 0.00308627659 0.01003265 0.999884248 0.0114394063 0 0.9999307 0.0117750354 -0.0103708357 0.9999462 1.17995256E-07 0 1 1.17891325E-07 -0.6775951 0.7354352 8.73953141E-08 -0.6775951 0.7354352 8.73953141E-08 -0.0443380773 0.999016643 1.07683867E-07 -0.0443380773 0.999016643 1.07683867E-07 0.0443380177 0.9990166 1.0768381E-07 0.0443380177 0.9990166 1.0768381E-07 0.6775927 0.735437453 8.7395E-08 0.6775927 0.735437453 8.7395E-08 0.0103708236 0.9999462 1.17995256E-07 0 1 1.17891325E-07 1.12638709E-07 1 0 1.12638709E-07 1 0 1.12638709E-07 1 0 1.12638709E-07 1 0 1.12638709E-07 1 0 1.12638709E-07 1 0 1.12638709E-07 1 0 1.12638709E-07 1 0 1.12638723E-07 1 0 1.12638723E-07 1 0 1.12638723E-07 1 0 1.12638723E-07 1 0</VertexChannel>
+                <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.173993528 0.9702141 0.302207053 0.9702141 0.302207053 0.654537857 0.173993528 0.654537857 0.166677713 0.9702141 0.166677713 0.654537857 0.0797886252 0.654537857 0.0797886252 0.9702141 0.309522748 0.654537857 0.309522748 0.9702141 0.396411836 0.9702141 0.396411836 0.654537857 0.171850681 0.9702141 0.171850681 0.654537857 0.30434978 0.9702141 0.30434978 0.654537857 0.173993528 0.9702141 0.302207053 0.9702141 0.302207053 0.654537857 0.173993528 0.654537857 0.166677713 0.9702141 0.166677713 0.654537857 0.0797886252 0.654537857 0.0797886252 0.9702141 0.309522748 0.654537857 0.309522748 0.9702141 0.396411836 0.9702141 0.396411836 0.654537857 0.171850681 0.9702141 0.171850681 0.654537857 0.30434978 0.9702141 0.30434978 0.654537857 0.173993528 0.9702141 0.302207053 0.9702141 0.302207053 0.654537857 0.173993528 0.654537857 0.166677713 0.9702141 0.166677713 0.654537857 0.0797886252 0.654537857 0.0797886252 0.9702141 0.309522748 0.654537857 0.309522748 0.9702141 0.396411836 0.9702141 0.396411836 0.654537857 0.171850681 0.9702141 0.171850681 0.654537857 0.30434978 0.9702141 0.30434978 0.654537857 0.309522033 0.567687452 0.309522033 0.6545369 0.39641118 0.6545369 0.39641118 0.567687452 0.304349065 0.6545369 0.304349065 0.567687452 0.4915916 0.8451266 0.467744082 0.8451266 0.4677441 0.621779859 0.4915916 0.6217797 0.173992872 0.6545369 0.302206516 0.6545369 0.302206516 0.567687452 0.173992872 0.567687452 0.468548179 0.6550137 0.492058635 0.655013561 0.492058575 0.270150185 0.468548119 0.270150185 0.166677117 0.6545369 0.171850085 0.6545369 0.171850085 0.567687452 0.166677117 0.567687452 0.07978797 0.6545369 0.07978797 0.567687452 0.309522033 0.563134253 0.39641118 0.563134253 0.304349065 0.563134253 0.467744082 0.6100706 0.491591543 0.6100706 0.302206516 0.563134253 0.173992872 0.563134253 0.492058545 0.2499733 0.468548119 0.249973416 0.171850085 0.563134253 0.166677117 0.5631343 0.07978797 0.5631343 0.309522033 0.560036 0.39641118 0.560036 0.304349065 0.560036 0.4677353 0.602102637 0.491591573 0.6021025 0.302206516 0.560036 0.173992872 0.560036 0.492058545 0.236243725 0.4737141 0.236243725 0.171850085 0.560036 0.166677117 0.560036 0.07978797 0.560036 0.309522033 0.4327408 0.39641118 0.4327408 0.304349065 0.4327408 0.4677352 0.274743617 0.4915915 0.274743557 0.302206516 0.4327408 0.173992872 0.4327408 0.171850085 0.4327408 0.166677117 0.4327408 0.07978797 0.4327408 0.309522033 0.429082155 0.39641118 0.429082155 0.304349065 0.429082155 0.467744082 0.265335321 0.491591483 0.265335441 0.302206516 0.429082155 0.173992872 0.429082155 0.472284257 0.236406326 0.4946096 0.236406326 0.4946097 0.2527132 0.465997159 0.252713323 0.171850085 0.429082155 0.166677117 0.429789782 0.07978797 0.429789782 0.309522033 0.4245001 0.39641118 0.4245001 0.304349065 0.4245001 0.467744082 0.2535512 0.491591543 0.253551245 0.302206516 0.4245001 0.173992872 0.4245001 0.4946097 0.2731371 0.465997159 0.273136973 0.171850085 0.4245001 0.166677117 0.4245001 0.07978797 0.4245001 0.309522033 0.3388605 0.39641118 0.3388605 0.304349065 0.3388605 0.467744052 0.0333163738 0.4915915 0.0333163738 0.302206516 0.3388605 0.173992872 0.3388605 0.4946096 0.65485096 0.46599704 0.6548511 0.171850085 0.3388605 0.166677117 0.3388605 0.07978797 0.3388605 0.9197638 0.4661492 0.9197638 0.05859661 0.5101967 0.05859661 0.5101967 0.4661492 0.9197638 0.4661492 0.9197638 0.05859661 0.5101967 0.05859661 0.5101967 0.4661492 0.9197638 0.4661492 0.9197638 0.05859661 0.5101967 0.05859661 0.5101967 0.4661492</VertexChannel>
+              </Channels>
+            </Vertices>
+          </Batch>
+        </Geometry>
+      </Child>
+      <Child>
+        <Name>group</Name>
+        <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+      </Child>
+    </Children>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>Texture_Road</Name>
+      <Identity>
+        <SourceFilename>C:\Users\123507z\Desktop\DET (Games)\KinectUFO\XNAFrameWork\XNAFrameWorkContent\Models\Road_1.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Emissive" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Ambient" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Diffuse" Type="Framework:Vector3">1 1 1</Data>
+        <Data Key="Opacity" Type="float">1</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\FBX\FC282582\Road_1.fbm\Road_Texture.tga</ExternalReference>
+  </ExternalReferences>
+</XnaContent>
