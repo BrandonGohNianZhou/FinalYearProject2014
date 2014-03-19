@@ -1,0 +1,12 @@
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\bin\x86\Release\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\bin\x86\Release\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\obj\x86\Release\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\obj\x86\Release\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\obj\x86\Release\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\bin\x86\Release\SkinnedModel.dll
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\bin\x86\Release\SkinnedModel.pdb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Release\SkinnedModel.dll
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Release\SkinnedModel.pdb
