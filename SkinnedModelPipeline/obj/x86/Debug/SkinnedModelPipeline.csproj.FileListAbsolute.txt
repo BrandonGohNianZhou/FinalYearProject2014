@@ -1,0 +1,42 @@
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModelPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModelPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb
