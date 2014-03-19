@@ -1,0 +1,104 @@
+Content\Models\Obstacle\DUCK_CENTER.xnb
+Content\Models\Obstacle\DUCK_LEFT.xnb
+Content\Models\Obstacle\DUCK_RIGHT.xnb
+Content\Models\Obstacle\JUMP_CENTER.xnb
+Content\Models\Obstacle\JUMP_LEFT.xnb
+Content\Models\Obstacle\JUMP_NONE.xnb
+Content\Models\Obstacle\JUMP_RIGHT.xnb
+Content\Models\Obstacle\NONE_CENTER.xnb
+Content\Models\Obstacle\NONE_LEFT.xnb
+Content\Models\Obstacle\NONE_RIGHT.xnb
+Content\モデル\Droid.xnb
+Content\モデル\メインメニュー\ui cube.xnb
+Content\モデル\Alpha Test\Part1 Plant Test.xnb
+Content\モデル\Final Animation\With Hit Animation.xnb
+Content\モデル\New Skydome.xnb
+Content\Models\Road\Road_1.xnb
+Content\Models\PowerUp\Invulnerable.xnb
+Content\Models\PowerUp\PointBooster.xnb
+Content\Models\PowerUp\Speed.xnb
+Content\Models\Road\Road_2.xnb
+Content\フォント\SpriteFont1.xnb
+Content\エフェクト\シャドウマップ\DrawUsingShadowMap.xnb
+Content\エフェクト\シャドウマップ\ShadowMapCreator.xnb
+Content\エフェクト\シャドウマップ\Effect1.xnb
+Content\テクスチャ\影\shadow.xnb
+Content\テクスチャ\HandPointer.xnb
+Content\テクスチャ\Black.xnb
+Content\テクスチャ\リザルトメニュー\exit.xnb
+Content\テクスチャ\ナンバー\count1.xnb
+Content\テクスチャ\ナンバー\count2.xnb
+Content\テクスチャ\ナンバー\count3.xnb
+Content\テクスチャ\リザルトメニュー\playagain.xnb
+Content\テクスチャ\ナンバー\go.xnb
+Content\テクスチャ\タイトル\Title.xnb
+Content\テクスチャ\Progress Bar\HP.xnb
+Content\テクスチャ\Progress Bar\ProgressBar.xnb
+Content\テクスチャ\Instructions\Page 1.xnb
+Content\テクスチャ\Instructions\Page 2.xnb
+Content\テクスチャ\Instructions\Hand to left.xnb
+Content\テクスチャ\Instructions\Hand to right.xnb
+Content\テクスチャ\Numbers\0.xnb
+Content\テクスチャ\Numbers\1.xnb
+Content\テクスチャ\Numbers\2.xnb
+Content\テクスチャ\Numbers\3.xnb
+Content\テクスチャ\Numbers\4.xnb
+Content\テクスチャ\Numbers\5.xnb
+Content\テクスチャ\Numbers\6.xnb
+Content\テクスチャ\Numbers\7.xnb
+Content\テクスチャ\Numbers\8.xnb
+Content\テクスチャ\Numbers\9.xnb
+Content\テクスチャ\Instructions\Page 4.xnb
+Content\テクスチャ\Instructions\Page 3.xnb
+Content\テクスチャ\White.xnb
+Content\テクスチャ\Instructions\Page 5.xnb
+Content\テクスチャ\Menu\Resume.xnb
+Content\テクスチャ\Score Bar\0 Speed.xnb
+Content\テクスチャ\Score Bar\1 Speed.xnb
+Content\テクスチャ\Score Bar\2 Speed.xnb
+Content\テクスチャ\Score Bar\3 Speed.xnb
+Content\テクスチャ\Score Bar\4 Speed.xnb
+Content\テクスチャ\New Pointer.xnb
+Content\テクスチャ\Menu\Game Over Screen.xnb
+Content\テクスチャ\Menu\Game Over Words.xnb
+Content\テクスチャ\Menu\Play Again.xnb
+Content\テクスチャ\Menu\Your Score.xnb
+Content\テクスチャ\Red Numbers\Red 0.xnb
+Content\テクスチャ\Red Numbers\Red 1.xnb
+Content\テクスチャ\Red Numbers\Red 2.xnb
+Content\テクスチャ\Red Numbers\Red 3.xnb
+Content\テクスチャ\Red Numbers\Red 4.xnb
+Content\テクスチャ\Red Numbers\Red 5.xnb
+Content\テクスチャ\Red Numbers\Red 6.xnb
+Content\テクスチャ\Red Numbers\Red 7.xnb
+Content\テクスチャ\Red Numbers\Red 8.xnb
+Content\テクスチャ\Red Numbers\Red 9.xnb
+Content\テクスチャ\Go.xnb
+Content\テクスチャ\Menu\Gratz.xnb
+Content\テクスチャ\Menu\Victory Screen.xnb
+Content\Textures\Feedback\Great.xnb
+Content\Textures\Feedback\Perfect.xnb
+Content\Models\PowerUp\Model_Textures\PowerUpTexture.xnb
+Content\Textures\Feedback\Boo.xnb
+Content\Models\Obstacle\Model_Textures\Walls_day_0.xnb
+Content\Models\Obstacle\Model_Textures\Walls2_day_0.xnb
+Content\FBX\57B6386D\ui cube.fbm\menu cube texture_0.xnb
+Content\モデル\Alpha Test\Textures\UFO_Texture_0.xnb
+Content\モデル\Alpha Test\Textures\Wall_Texture (2)_0.xnb
+Content\モデル\Alpha Test\Textures\Claw_Texture_0.xnb
+Content\モデル\Alpha Test\Textures\Lampost_Texture_0.xnb
+Content\モデル\Alpha Test\Textures\TrainTrack_Texture_0.xnb
+Content\モデル\Alpha Test\Textures\Props_Texture_0.xnb
+Content\モデル\Alpha Test\Textures\Road_Texture_0.xnb
+Content\モデル\Alpha Test\Textures\HDB_Texture_0.xnb
+Content\モデル\Alpha Test\Textures\Tree Texture with Alpha_0.xnb
+Content\モデル\Alpha Test\Leaf Texture_0.xnb
+Content\モデル\Alpha Test\Leaf_2_Texture_0.xnb
+Content\モデル\Final Animation\Skateboard_UVSnapshot_Textured_0.xnb
+Content\モデル\Final Animation\Head Texture_0.xnb
+Content\モデル\Final Animation\Body Texture_0.xnb
+Content\モデル\Skydome_UVSnapshot_Transparency_0.xnb
+Content\Models\Road\Model_Textures\Road_Texture_0.xnb
+Content\FBX\50E72C19\Invulnerable.fbm\PowerUpTexture_0.xnb
+Content\FBX\519F2C3A\PointBooster.fbm\PowerUpTexture_0.xnb
+Content\FBX\22A02923\Speed.fbm\PowerUpTexture_0.xnb
