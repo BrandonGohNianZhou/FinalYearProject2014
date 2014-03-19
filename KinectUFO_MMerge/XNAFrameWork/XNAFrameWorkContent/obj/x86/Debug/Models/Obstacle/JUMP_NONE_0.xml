@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Graphics="Microsoft.Xna.Framework.Content.Pipeline.Graphics" xmlns:Framework="Microsoft.Xna.Framework">
+  <Asset Type="Graphics:MeshContent">
+    <Name>JumpWall:polySurface1</Name>
+    <Identity>
+      <SourceFilename>C:\Users\121309D\Desktop\FYP\KinectUFO_MMerge\XNAFrameWork\XNAFrameWorkContent\Models\Obstacle\JUMP_NONE.fbx</SourceFilename>
+      <SourceTool>FbxImporter</SourceTool>
+    </Identity>
+    <Transform>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</Transform>
+    <Positions>20.3128548 1.65807164 0.189537242 -19.9659271 1.65807164 0.189550236 -19.9659271 0.0157956872 0.189548239 20.3128548 0.0157956872 0.189535245 -19.9659271 0.0157956872 -1.08045077 20.3128548 0.0157956872 -1.08045077 -19.9659271 1.65807164 -1.08044875 20.3128548 1.65807164 -1.08044875 19.6068783 1.43759668 0.189543232 -19.2599525 1.43759668 0.189549237 -19.2599525 0.2362697 0.189548239 19.6068783 0.2362697 0.189541236 19.6068783 1.43759668 -0.36474973 -19.2599525 1.43759668 -0.364743769 -19.2599525 0.2362697 -0.364744723 19.6068783 0.2362697 -0.364750743</Positions>
+    <Geometry>
+      <Batch>
+        <Material>#Resource1</Material>
+        <Indices>2 1 0 0 3 2 6 5 4 4 7 6 10 9 8 8 11 10 14 13 12 12 15 14 18 17 16 16 19 18 22 21 20 20 23 22 25 24 21 21 22 25 27 26 24 24 25 27 23 20 26 26 27 23 30 29 28 28 31 30 34 33 32 32 35 34 38 37 36 36 39 38 42 41 40 40 43 42</Indices>
+        <Vertices>
+          <PositionIndices>12 13 14 15 3 2 4 5 7 6 1 0 1 6 4 2 7 0 3 5 0 1 9 8 2 10 3 11 8 9 13 12 9 10 14 13 10 11 15 14 11 8 12 15</PositionIndices>
+          <Channels>
+            <VertexChannel Name="Normal0" ElementType="Framework:Vector3">0 0 1 0 0 1 0 0 1 0 0 1 0 -1 -2E-06 0 -1 -2E-06 0 -1 -2E-06 0 -1 -2E-06 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 0 -1 0 0 -1 0 0 -1 0 1 0 -6.343113E-06 1 0 -3.1715565E-06 1 0 -4.757335E-06 1 0 -4.757335E-06 0 1 0 0 1 0 0 1 0 0 1 0 -1 0 3.1715565E-06 -1 0 6.343113E-06 -1 0 4.757335E-06 -1 0 4.757335E-06</VertexChannel>
+            <VertexChannel Name="TextureCoordinate0" ElementType="Framework:Vector2">0.966412961 0.055284977 0.0440629721 0.055284977 0.0440629721 0.09796202 0.966412961 0.09796202 0.983166933 0.108358979 0.0273099542 0.108358979 0.0273099542 0.108358979 0.983166933 0.108358979 0.983166933 0.04488802 0.0273099542 0.04488802 0.0273099542 0.04488802 0.983166933 0.04488802 0.0273099542 0.04488802 0.0273099542 0.04488802 0.0273099542 0.108358979 0.0273099542 0.108358979 0.983166933 0.04488802 0.983166933 0.04488802 0.983166933 0.108358979 0.983166933 0.108358979 0.983166933 0.04488802 0.0273099542 0.04488802 0.0440629721 0.055284977 0.966412961 0.055284977 0.0273099542 0.108358979 0.0440629721 0.09796202 0.983166933 0.108358979 0.966412961 0.09796202 0.966412961 0.055284977 0.0440629721 0.055284977 0.0440629721 0.055284977 0.966412961 0.055284977 0.0440629721 0.055284977 0.0440629721 0.09796202 0.0440629721 0.09796202 0.0440629721 0.055284977 0.0440629721 0.09796202 0.966412961 0.09796202 0.966412961 0.09796202 0.0440629721 0.09796202 0.966412961 0.09796202 0.966412961 0.055284977 0.966412961 0.055284977 0.966412961 0.09796202</VertexChannel>
+          </Channels>
+        </Vertices>
+      </Batch>
+    </Geometry>
+  </Asset>
+  <Resources>
+    <Resource ID="#Resource1" Type="Graphics:BasicMaterialContent">
+      <Name>JumpWall:lambert3SG1</Name>
+      <Identity>
+        <SourceFilename>C:\Users\121309D\Desktop\FYP\KinectUFO_MMerge\XNAFrameWork\XNAFrameWorkContent\Models\Obstacle\JUMP_NONE.fbx</SourceFilename>
+        <SourceTool>FbxImporter</SourceTool>
+      </Identity>
+      <OpaqueData>
+        <Data Key="DiffuseColor" Type="Framework:Vector3">0.8 0.8 0.8</Data>
+        <Data Key="EmissiveColor" Type="Framework:Vector3">0 0 0</Data>
+        <Data Key="Alpha" Type="float">1</Data>
+        <Data Key="SpecularColor" Type="Framework:Vector3">0 0 0</Data>
+      </OpaqueData>
+      <Textures>
+        <Texture Key="Texture">
+          <OpaqueData>
+            <Data Key="TextureCoordinate">TextureCoordinate0</Data>
+          </OpaqueData>
+          <Reference>#External1</Reference>
+        </Texture>
+      </Textures>
+    </Resource>
+  </Resources>
+  <ExternalReferences>
+    <ExternalReference ID="#External1" TargetType="Graphics:TextureContent">..\..\..\..\..\Models\Obstacle\Model_Textures\Walls2_day.tga</ExternalReference>
+  </ExternalReferences>
+</XnaContent>
