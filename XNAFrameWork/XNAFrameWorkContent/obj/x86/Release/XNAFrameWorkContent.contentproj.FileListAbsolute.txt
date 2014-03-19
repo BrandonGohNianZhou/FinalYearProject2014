@@ -1,0 +1,2 @@
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWorkContent\obj\x86\Release\XNAFrameWorkContent.contentprojResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWorkContent\obj\x86\Release\ResolveAssemblyReference.cache

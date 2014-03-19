@@ -1,0 +1,1671 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>フォント\SpriteFont1.spritefont</Source>
+      <Name>フォント\SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\フォント\SpriteFont1.xnb</Output>
+      <Time>2013-09-26T14:37:11.2695302+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Droid.fbx</Source>
+      <Name>モデル\Droid</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Droid.xnb</Output>
+      <Time>2013-10-14T09:23:48.7776928+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Droid_0.xml</Key>
+        <Value>2014-03-11T14:22:32.9558119+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part1.fbx</Source>
+      <Name>モデル\Stages\Part1</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part1.xnb</Output>
+      <Time>2014-01-07T11:00:54.4514761+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\Part1_0.xml</Key>
+        <Value>2014-03-11T14:22:34.7419905+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (2)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\PartEnd.fbx</Source>
+      <Name>モデル\Stages\PartEnd</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\PartEnd.xnb</Output>
+      <Time>2014-01-08T13:32:24.8337193+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\PartEnd_0.xml</Key>
+        <Value>2014-03-11T14:22:45.0090171+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\NYP_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\PartStart.fbx</Source>
+      <Name>モデル\Stages\PartStart</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\PartStart.xnb</Output>
+      <Time>2014-01-07T10:47:04.257465+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\PartStart_0.xml</Key>
+        <Value>2014-03-11T14:22:46.7031865+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Station_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_1.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\VendingMachine_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Bus_Stop_UVSnapshot_Textured_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\teststage2.fbx</Source>
+      <Name>モデル\Stages\teststage2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\teststage2.xnb</Output>
+      <Time>2013-12-31T09:09:36.7280187+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\teststage2_0.xml</Key>
+        <Value>2014-03-11T14:22:49.7554917+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Station_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_1.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\VendingMachine_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Bus_Stop_UVSnapshot_Textured_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\skytest - Copy_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\メインメニュー\ui cube.fbx</Source>
+      <Name>モデル\メインメニュー\ui cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\メインメニュー\ui cube.xnb</Output>
+      <Time>2013-11-27T06:01:30.0596919+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\メインメニュー\ui cube_0.xml</Key>
+        <Value>2014-03-11T14:22:51.63868+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\555733E6\ui cube.fbm\menu cube texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part2.fbx</Source>
+      <Name>モデル\Stages\Part2</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part2.xnb</Output>
+      <Time>2014-01-07T12:42:29.0828877+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\Part2_0.xml</Key>
+        <Value>2014-03-11T14:22:53.6128774+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (2)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (1)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part3.fbx</Source>
+      <Name>モデル\Stages\Part3</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part3.xnb</Output>
+      <Time>2014-01-07T14:23:40.8470034+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\Part3_0.xml</Key>
+        <Value>2014-03-11T14:22:55.4560617+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (1)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (2)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part4.fbx</Source>
+      <Name>モデル\Stages\Part4</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part4.xnb</Output>
+      <Time>2014-01-07T14:26:08.4567629+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\Part4_0.xml</Key>
+        <Value>2014-03-11T14:22:56.979214+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (2)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (1)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part6.fbx</Source>
+      <Name>モデル\Stages\Part6</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part6.xnb</Output>
+      <Time>2014-01-07T13:34:42.0231504+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\Part6_0.xml</Key>
+        <Value>2014-03-11T14:22:58.3743535+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (1)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part7.fbx</Source>
+      <Name>モデル\Stages\Part7</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part7.xnb</Output>
+      <Time>2014-01-07T15:26:44.0792888+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\Part7_0.xml</Key>
+        <Value>2014-03-11T14:22:59.7504911+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (1)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Bus_Stop_UVSnapshot_Textured_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part5.fbx</Source>
+      <Name>モデル\Stages\Part5</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part5.xnb</Output>
+      <Time>2014-01-07T13:26:26.4045935+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\Part5_0.xml</Key>
+        <Value>2014-03-11T14:23:01.1116272+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\teststage.fbx</Source>
+      <Name>モデル\Stages\teststage</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\teststage.xnb</Output>
+      <Time>2014-01-02T18:06:42.5928827+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Stages\teststage_0.xml</Key>
+        <Value>2014-03-11T14:23:02.7117872+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (2)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Part1 Plant Test.fbx</Source>
+      <Name>モデル\Alpha Test\Part1 Plant Test</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Part1 Plant Test.xnb</Output>
+      <Time>2013-12-30T19:51:08.9316392+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Alpha Test\Part1 Plant Test_0.xml</Key>
+        <Value>2014-03-11T14:23:06.5481708+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\UFO_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Wall_Texture (2)_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Claw_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Lampost_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\TrainTrack_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Props_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Road_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\HDB_Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Tree Texture with Alpha_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Leaf Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Leaf_2_Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\Final Animation\With Hit Animation.fbx</Source>
+      <Name>モデル\Final Animation\With Hit Animation</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\With Hit Animation.xnb</Output>
+      <Time>2014-01-02T09:44:26.6447613+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\Final Animation\With Hit Animation_0.xml</Key>
+        <Value>2014-03-11T14:23:15.2390398+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Skateboard_UVSnapshot_Textured_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Head Texture_0.xnb</Request>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Body Texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>モデル\New Skydome.fbx</Source>
+      <Name>モデル\New Skydome</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\New Skydome.xnb</Output>
+      <Time>2014-01-02T12:00:07.7548101+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\モデル\New Skydome_0.xml</Key>
+        <Value>2014-03-11T14:23:16.5121671+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Skydome_UVSnapshot_Transparency_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>エフェクト\シャドウマップ\DrawUsingShadowMap.fx</Source>
+      <Name>エフェクト\シャドウマップ\DrawUsingShadowMap</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\DrawUsingShadowMap.xnb</Output>
+      <Time>2013-10-24T11:54:28.7001378+08:00</Time>
+    </Item>
+    <Item>
+      <Source>エフェクト\シャドウマップ\ShadowMapCreator.fx</Source>
+      <Name>エフェクト\シャドウマップ\ShadowMapCreator</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\ShadowMapCreator.xnb</Output>
+      <Time>2013-10-24T11:54:28.6881371+08:00</Time>
+    </Item>
+    <Item>
+      <Source>エフェクト\シャドウマップ\Effect1.fx</Source>
+      <Name>エフェクト\シャドウマップ\Effect1</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\Effect1.xnb</Output>
+      <Time>2013-10-24T11:53:57.6113596+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\影\shadow.png</Source>
+      <Name>テクスチャ\影\shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\影\shadow.xnb</Output>
+      <Time>2013-10-24T14:05:42.2161227+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\HandPointer.png</Source>
+      <Name>テクスチャ\HandPointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\HandPointer.xnb</Output>
+      <Time>2013-11-13T11:16:53.8862885+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Black.png</Source>
+      <Name>テクスチャ\Black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Black.xnb</Output>
+      <Time>2013-11-14T15:45:50.6073065+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\リザルトメニュー\exit.png</Source>
+      <Name>テクスチャ\リザルトメニュー\exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\リザルトメニュー\exit.xnb</Output>
+      <Time>2013-11-19T17:06:08.069062+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\ナンバー\count1.png</Source>
+      <Name>テクスチャ\ナンバー\count1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count1.xnb</Output>
+      <Time>2013-11-27T05:14:28.5933132+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\ナンバー\count2.png</Source>
+      <Name>テクスチャ\ナンバー\count2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count2.xnb</Output>
+      <Time>2013-11-27T05:14:28.6023138+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\ナンバー\count3.png</Source>
+      <Name>テクスチャ\ナンバー\count3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count3.xnb</Output>
+      <Time>2013-11-27T05:14:28.6123143+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\リザルトメニュー\playagain.png</Source>
+      <Name>テクスチャ\リザルトメニュー\playagain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\リザルトメニュー\playagain.xnb</Output>
+      <Time>2013-11-27T05:14:28.5823126+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\ナンバー\go.png</Source>
+      <Name>テクスチャ\ナンバー\go</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\go.xnb</Output>
+      <Time>2013-11-27T05:19:18.1028722+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\タイトル\Title.png</Source>
+      <Name>テクスチャ\タイトル\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\タイトル\Title.xnb</Output>
+      <Time>2013-12-30T15:07:32.3829819+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Feedback\BOO.png</Source>
+      <Name>テクスチャ\Feedback\BOO</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Feedback\BOO.xnb</Output>
+      <Time>2013-12-26T11:08:35.9230965+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Feedback\GOOD.png</Source>
+      <Name>テクスチャ\Feedback\GOOD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Feedback\GOOD.xnb</Output>
+      <Time>2013-12-26T13:34:28.4739176+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Feedback\PERFECT.png</Source>
+      <Name>テクスチャ\Feedback\PERFECT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Feedback\PERFECT.xnb</Output>
+      <Time>2013-12-26T13:34:16.9419176+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Progress Bar\HP.png</Source>
+      <Name>テクスチャ\Progress Bar\HP</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Progress Bar\HP.xnb</Output>
+      <Time>2013-12-30T17:15:36.1564258+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Progress Bar\ProgressBar.png</Source>
+      <Name>テクスチャ\Progress Bar\ProgressBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Progress Bar\ProgressBar.xnb</Output>
+      <Time>2013-12-30T17:19:28.5226601+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Instructions\Page 1.png</Source>
+      <Name>テクスチャ\Instructions\Page 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 1.xnb</Output>
+      <Time>2014-01-08T11:02:21.5546429+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Instructions\Page 2.png</Source>
+      <Name>テクスチャ\Instructions\Page 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 2.xnb</Output>
+      <Time>2014-01-08T11:02:36.5201393+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Instructions\Hand to left.png</Source>
+      <Name>テクスチャ\Instructions\Hand to left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Hand to left.xnb</Output>
+      <Time>2013-12-27T14:21:15.203317+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Instructions\Hand to right.png</Source>
+      <Name>テクスチャ\Instructions\Hand to right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Hand to right.xnb</Output>
+      <Time>2013-12-27T14:21:53.2951258+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\0.png</Source>
+      <Name>テクスチャ\Numbers\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\0.xnb</Output>
+      <Time>2014-01-07T15:13:40.7248759+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\1.png</Source>
+      <Name>テクスチャ\Numbers\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\1.xnb</Output>
+      <Time>2014-01-07T15:12:01.5409585+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\2.png</Source>
+      <Name>テクスチャ\Numbers\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\2.xnb</Output>
+      <Time>2014-01-07T15:12:09.0087052+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\3.png</Source>
+      <Name>テクスチャ\Numbers\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\3.xnb</Output>
+      <Time>2014-01-07T15:12:16.0214064+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\4.png</Source>
+      <Name>テクスチャ\Numbers\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\4.xnb</Output>
+      <Time>2014-01-07T15:12:23.6931735+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\5.png</Source>
+      <Name>テクスチャ\Numbers\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\5.xnb</Output>
+      <Time>2014-01-07T15:12:33.6601701+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\6.png</Source>
+      <Name>テクスチャ\Numbers\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\6.xnb</Output>
+      <Time>2014-01-07T15:12:41.9309971+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\7.png</Source>
+      <Name>テクスチャ\Numbers\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\7.xnb</Output>
+      <Time>2014-01-07T15:13:02.5060544+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\8.png</Source>
+      <Name>テクスチャ\Numbers\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\8.xnb</Output>
+      <Time>2014-01-07T15:13:09.2387276+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Numbers\9.png</Source>
+      <Name>テクスチャ\Numbers\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\9.xnb</Output>
+      <Time>2014-01-07T15:13:16.6614698+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Instructions\Page 4.png</Source>
+      <Name>テクスチャ\Instructions\Page 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 4.xnb</Output>
+      <Time>2014-01-08T11:03:05.5270397+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Instructions\Page 3.png</Source>
+      <Name>テクスチャ\Instructions\Page 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 3.xnb</Output>
+      <Time>2014-01-08T11:02:51.3016173+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\White.png</Source>
+      <Name>テクスチャ\White</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\White.xnb</Output>
+      <Time>2013-12-30T13:35:04.9662863+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Instructions\Page 5.png</Source>
+      <Name>テクスチャ\Instructions\Page 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 5.xnb</Output>
+      <Time>2014-01-08T11:03:19.8764745+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Menu\Resume.png</Source>
+      <Name>テクスチャ\Menu\Resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Resume.xnb</Output>
+      <Time>2014-01-07T16:02:27.8525963+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Score Bar\0 Speed.png</Source>
+      <Name>テクスチャ\Score Bar\0 Speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\0 Speed.xnb</Output>
+      <Time>2014-01-07T16:58:09.6137191+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Score Bar\1 Speed.png</Source>
+      <Name>テクスチャ\Score Bar\1 Speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\1 Speed.xnb</Output>
+      <Time>2014-01-07T16:58:20.2407817+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Score Bar\2 Speed.png</Source>
+      <Name>テクスチャ\Score Bar\2 Speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\2 Speed.xnb</Output>
+      <Time>2014-01-07T16:58:32.5960171+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Score Bar\3 Speed.png</Source>
+      <Name>テクスチャ\Score Bar\3 Speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\3 Speed.xnb</Output>
+      <Time>2014-01-07T16:58:43.9681542+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Score Bar\4 Speed.png</Source>
+      <Name>テクスチャ\Score Bar\4 Speed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\4 Speed.xnb</Output>
+      <Time>2014-01-07T16:58:58.9226495+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\New Pointer.png</Source>
+      <Name>テクスチャ\New Pointer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\New Pointer.xnb</Output>
+      <Time>2014-01-07T17:10:43.0150517+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Menu\Game Over Screen.png</Source>
+      <Name>テクスチャ\Menu\Game Over Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Game Over Screen.xnb</Output>
+      <Time>2014-01-07T17:28:42.4029797+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Menu\Game Over Words.png</Source>
+      <Name>テクスチャ\Menu\Game Over Words</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Game Over Words.xnb</Output>
+      <Time>2014-01-07T17:29:29.2596649+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Menu\Play Again.png</Source>
+      <Name>テクスチャ\Menu\Play Again</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Play Again.xnb</Output>
+      <Time>2014-01-07T17:31:01.6649045+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Menu\Your Score.png</Source>
+      <Name>テクスチャ\Menu\Your Score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Your Score.xnb</Output>
+      <Time>2014-01-07T17:36:21.6849999+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 0.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 0.xnb</Output>
+      <Time>2014-01-08T11:08:11.8330844+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 1.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 1.xnb</Output>
+      <Time>2014-01-08T11:08:23.8362846+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 2.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 2.xnb</Output>
+      <Time>2014-01-08T11:08:43.8692877+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 3.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 3.xnb</Output>
+      <Time>2014-01-08T11:09:06.0605066+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 4.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 4.xnb</Output>
+      <Time>2014-01-08T11:09:40.6039606+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 5.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 5.xnb</Output>
+      <Time>2014-01-08T11:10:16.2825281+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 6.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 6.xnb</Output>
+      <Time>2014-01-08T11:11:09.1388132+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 7.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 7.xnb</Output>
+      <Time>2014-01-08T11:12:04.722371+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 8.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 8.xnb</Output>
+      <Time>2014-01-08T11:11:36.9575948+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Red Numbers\Red 9.png</Source>
+      <Name>テクスチャ\Red Numbers\Red 9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 9.xnb</Output>
+      <Time>2014-01-08T11:10:41.4650461+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Go.png</Source>
+      <Name>テクスチャ\Go</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Go.xnb</Output>
+      <Time>2014-01-08T12:53:46.2793876+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Menu\Gratz.png</Source>
+      <Name>テクスチャ\Menu\Gratz</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Gratz.xnb</Output>
+      <Time>2014-01-08T13:47:30.0778415+08:00</Time>
+    </Item>
+    <Item>
+      <Source>テクスチャ\Menu\Victory Screen.png</Source>
+      <Name>テクスチャ\Menu\Victory Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Victory Screen.xnb</Output>
+      <Time>2014-01-08T13:46:29.1177461+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Droid.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Droid_0.xml</Output>
+      <Time>2013-10-14T09:23:48.7776928+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part1.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\Part1_0.xml</Output>
+      <Time>2014-01-07T11:00:54.4514761+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\UFO_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb</Output>
+      <Time>2013-12-13T09:48:59.0089298+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Wall_Texture (2).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (2)_0.xnb</Output>
+      <Time>2014-01-13T12:28:12.3740324+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Claw_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb</Output>
+      <Time>2013-12-13T09:48:59.0499339+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Alien Uncle\AO with Color.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb</Output>
+      <Time>2013-12-30T18:37:15.3213084+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Props_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb</Output>
+      <Time>2013-12-26T13:40:43.7264095+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Lampost_Texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb</Output>
+      <Time>2013-12-18T10:09:20.3323301+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\TrainTrack_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb</Output>
+      <Time>2013-12-13T09:48:58.6668956+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Road_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb</Output>
+      <Time>2013-12-26T10:19:42.1363682+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\HDB_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb</Output>
+      <Time>2013-12-16T17:10:55.5215432+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Trees_Texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb</Output>
+      <Time>2013-12-19T14:49:23.790415+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Leaf_Texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb</Output>
+      <Time>2013-12-19T14:48:39.7720136+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Leaf_2_Texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb</Output>
+      <Time>2013-12-19T14:58:34.8545159+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Props Project\sourceimages\Props\New Prop Textures.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb</Output>
+      <Time>2013-12-27T11:06:34.4953348+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\PartEnd.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\PartEnd_0.xml</Output>
+      <Time>2014-01-08T13:32:24.8337193+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\NYP_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\NYP_Texture_0.xnb</Output>
+      <Time>2013-12-13T14:14:23.8142793+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\PartStart.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\PartStart_0.xml</Output>
+      <Time>2014-01-07T10:47:04.257465+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Station_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Station_Texture_0.xnb</Output>
+      <Time>2013-12-13T14:15:50.2959266+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Leaf_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_1.xnb</Output>
+      <Time>2013-12-26T16:19:35.5334987+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\VendingMachine_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\VendingMachine_Texture_0.xnb</Output>
+      <Time>2013-12-13T14:15:50.6149585+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Bus_Stop_UVSnapshot_Textured.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Bus_Stop_UVSnapshot_Textured_0.xnb</Output>
+      <Time>2013-12-30T10:26:58.9459076+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\teststage2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\teststage2_0.xml</Output>
+      <Time>2013-12-31T09:09:36.7280187+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Trees_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_1.xnb</Output>
+      <Time>2013-12-26T16:18:57.1316589+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\skytest - Copy.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\skytest - Copy_0.xnb</Output>
+      <Time>2013-12-30T18:19:59.4357151+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\メインメニュー\ui cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\メインメニュー\ui cube_0.xml</Output>
+      <Time>2013-11-27T06:01:30.0596919+08:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\555733E6\ui cube.fbm\menu cube texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\555733E6\ui cube.fbm\menu cube texture_0.xnb</Output>
+      <Time>2014-03-11T14:22:50.6725834+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part2.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\Part2_0.xml</Output>
+      <Time>2014-01-07T12:42:29.0828877+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Textures\Wall_Texture (1).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (1)_0.xnb</Output>
+      <Time>2014-01-13T12:28:20.3728322+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part3.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\Part3_0.xml</Output>
+      <Time>2014-01-07T14:23:40.8470034+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part4.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\Part4_0.xml</Output>
+      <Time>2014-01-07T14:26:08.4567629+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part6.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\Part6_0.xml</Output>
+      <Time>2014-01-07T13:34:42.0231504+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part7.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\Part7_0.xml</Output>
+      <Time>2014-01-07T15:26:44.0792888+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\Part5.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\Part5_0.xml</Output>
+      <Time>2014-01-07T13:26:26.4045935+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Stages\teststage.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Stages\teststage_0.xml</Output>
+      <Time>2014-01-02T18:06:42.5928827+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Part1 Plant Test.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Alpha Test\Part1 Plant Test_0.xml</Output>
+      <Time>2013-12-30T19:51:08.9316392+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Textures\UFO_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\UFO_Texture_0.xnb</Output>
+      <Time>2013-12-13T09:48:59.0089298+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Textures\Wall_Texture (2).tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Wall_Texture (2)_0.xnb</Output>
+      <Time>2013-12-13T09:48:58.6428932+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Textures\Claw_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Claw_Texture_0.xnb</Output>
+      <Time>2013-12-13T09:48:59.0499339+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Textures\Lampost_Texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Lampost_Texture_0.xnb</Output>
+      <Time>2013-12-18T10:09:20.3323301+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Textures\TrainTrack_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\TrainTrack_Texture_0.xnb</Output>
+      <Time>2013-12-13T09:48:58.6668956+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Textures\Props_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Props_Texture_0.xnb</Output>
+      <Time>2013-12-26T13:40:43.7264095+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Textures\Road_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Road_Texture_0.xnb</Output>
+      <Time>2013-12-26T10:19:42.1363682+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Textures\HDB_Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\HDB_Texture_0.xnb</Output>
+      <Time>2013-12-16T17:10:55.5215432+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Textures\Tree Texture with Alpha.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Tree Texture with Alpha_0.xnb</Output>
+      <Time>2013-12-30T19:40:49.2416764+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Leaf Texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Leaf Texture_0.xnb</Output>
+      <Time>2013-12-30T19:17:12.6425542+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Alpha Test\Leaf_2_Texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Leaf_2_Texture_0.xnb</Output>
+      <Time>2013-12-19T14:58:34.8545159+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Final Animation\With Hit Animation.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\Final Animation\With Hit Animation_0.xml</Output>
+      <Time>2014-01-02T09:44:26.6447613+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Final Animation\Skateboard_UVSnapshot_Textured.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Skateboard_UVSnapshot_Textured_0.xnb</Output>
+      <Time>2014-01-02T09:43:14.4185394+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Final Animation\Head Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Head Texture_0.xnb</Output>
+      <Time>2013-12-12T09:22:52.1959597+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Final Animation\Body Texture.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Body Texture_0.xnb</Output>
+      <Time>2013-12-12T09:20:53.2879597+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\New Skydome.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\モデル\New Skydome_0.xml</Output>
+      <Time>2014-01-02T12:00:07.7548101+08:00</Time>
+    </Item>
+    <Item>
+      <Source>モデル\Skydome_UVSnapshot_Transparency.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Skydome_UVSnapshot_Transparency_0.xnb</Output>
+      <Time>2013-12-05T09:01:32.5762145+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWorkContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWorkContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\121309D\Desktop\KinectUFO\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2014-01-13T14:46:30.8686074+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-08-22T15:50:24.0170674+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,8 @@
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWorkContent\obj\x86\Debug\XNAFrameWorkContent.contentprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWorkContent\obj\x86\Debug\XNAFrameWorkContent.contentprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWorkContent\obj\x86\Debug\XNAFrameWorkContent.contentprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWorkContent\obj\x86\Debug\XNAFrameWorkContent.contentprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWorkContent\obj\x86\Debug\XNAFrameWorkContent.contentprojResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWorkContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWorkContent\obj\x86\Debug\XNAFrameWorkContent.contentprojResolveAssemblyReference.cache
