@@ -1,0 +1,54 @@
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Desktop\SkinningSample_4_0\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
+C:\Users\123507z\Desktop\KinectUFO_TRANSLATED\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+C:\Users\123507z\Desktop\KinectUFO_TRANSLATED\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\123507z\Desktop\KinectUFO_TRANSLATED\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+C:\Users\123507z\Desktop\KinectUFO_TRANSLATED\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\123507z\Desktop\KinectUFO_TRANSLATED\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+C:\Users\123507z\Desktop\KinectUFO_TRANSLATED\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb
