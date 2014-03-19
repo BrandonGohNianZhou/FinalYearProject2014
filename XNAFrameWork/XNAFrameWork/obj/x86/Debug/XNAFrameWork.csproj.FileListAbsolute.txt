@@ -1,0 +1,582 @@
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\pen.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\sampleFBXModel.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\95032EB6\sampleFBXModel.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\characterSample.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C3102F12\characterSample.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\head.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\jacket.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\pants.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\dude.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\head_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\scene1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\XNAFrameWork\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\27A12B22\scene1.fbm\road_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\pen.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\head.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\jacket.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\pants.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\upBodyC.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\sampleFBXModel.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\dude.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\scene1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\2AED3015\sampleFBXModel.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\head_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B2842C81\scene1.fbm\road_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Player.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B4292CCF\Player.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType1Left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\scene1NoWall.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\kinectPrototype\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C83B2F0E\scene1NoWall.fbm\road_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\pen.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\sampleFBXModel.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Player.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\dude.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\scene1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\scene1NoWall.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\8E7330EC\sampleFBXModel.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\11062DA6\Player.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\head_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\jacket_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\pants_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\upBodyC_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\F612D58\scene1.fbm\road_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\2A222FE5\scene1NoWall.fbm\road_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\myAset\myBill.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\myAset\myRoad.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\myAset\myWall.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\wall.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\walltype1left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Road\road.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\9C0C2EC1\road.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Building\hdb1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Building\hdb2.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Building\hdb3.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Droid.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType1Left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType1Middle.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType1Right.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType2Left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType2Middle.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType2Right.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType3Left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType3Middle.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType3Right.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType4.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType5.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType6.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType7.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Wall\wallType8.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\box.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\myAset\builidngMaya.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\test.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\player2.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Player.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\player3.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Building\hdb13.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Building\build1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\メインメニュー\numberCube.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\DBD83DEB\numberCube.fbm\Number6_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\DBD83DEB\numberCube.fbm\Number5_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\DBD83DEB\numberCube.fbm\Number1_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\DBD83DEB\numberCube.fbm\Number2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\DBD83DEB\numberCube.fbm\Number3_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\DBD83DEB\numberCube.fbm\Number4_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\Stage\testStage.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C050315D\testStage.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C050315D\testStage.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C050315D\testStage.fbm\tree texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C050315D\testStage.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C050315D\testStage.fbm\buildings set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C050315D\testStage.fbm\bus uv_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C050315D\testStage.fbm\overhead bridge texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\prototypeInKinect\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\C050315D\testStage.fbm\station_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\フォント\SpriteFont1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Droid.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType1Middle.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType1Right.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType2Left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType2Middle.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType2Right.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType3Left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType3Middle.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType3Right.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType4.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType5.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType6.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType7.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType8.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\メインメニュー\numberCube.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\testStage.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\Number1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\Number2.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\Number3.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\Number4.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\Number5.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\Number6.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\9324186\numberCube.fbm\Number6_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\9324186\numberCube.fbm\Number5_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\9324186\numberCube.fbm\Number1_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\9324186\numberCube.fbm\Number2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\9324186\numberCube.fbm\Number3_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\9324186\numberCube.fbm\Number4_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B05034F8\testStage.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B05034F8\testStage.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B05034F8\testStage.fbm\tree texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B05034F8\testStage.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B05034F8\testStage.fbm\buildings set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B05034F8\testStage.fbm\bus uv_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B05034F8\testStage.fbm\overhead bridge texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B05034F8\testStage.fbm\station_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\countNumber.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\Go!!.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\DrawUsingShadowMap.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\ShadowMapCreator.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\Effect1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\影\shadow.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 1 left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\Walls set1 texture part1_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 3 middle.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 1 middle.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Wall\wallType1Left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 1 right.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 2 left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 2 middle.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 2 right.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 3 left.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 3 right.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 4.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 5.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 6.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 7.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\wall type 8.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Walls\Walls set 1 texture part2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\character_P.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\DC653330\character_P.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\スカイドーム\skydome.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\7E083E5A\skydome.fbm\SkyDome2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\character_default.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectAlpha\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\191A35A5\character_default.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\フォント\SpriteFont1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Droid.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\character_P.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\character_default.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\影\shadow.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\DrawUsingShadowMap.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\ShadowMapCreator.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\Effect1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\804B3274\character_P.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B88934E9\character_default.fbm\charactertexture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.dll
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.csprojResolveAssemblyReference.cache
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.exe
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.pdb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\part 1 stage.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\ACA53234\part 1 stage.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\ACA53234\part 1 stage.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\ACA53234\part 1 stage.fbm\buildings set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\ACA53234\part 1 stage.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\ACA53234\part 1 stage.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\ACA53234\part 1 stage.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\ACA53234\part 1 stage.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\HandPointer.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\リザルトメニュー\Exit.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Black.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\part 7.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\buildings set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\Walls1_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\ufo texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1D33276\part 7.fbm\claw texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\end.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\start.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\1BD8319F\end.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\1BD8319F\end.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\1BD8319F\end.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\1BD8319F\end.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\1BD8319F\end.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\1BD8319F\end.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\1BD8319F\end.fbm\ufo texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\1BD8319F\end.fbm\claw texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\station_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\vending machine_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\ufo texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\81C33296\start.fbm\claw texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\1BD8319F\end.fbm\nyp_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count2.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count3.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\go.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\リザルトメニュー\playagain.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\メインメニュー\ui cube.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\D8F83F3F\ui cube.fbm\menu cube texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\Part 1.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\part 2.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\part 3.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\part 4.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\part 5.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stage\part 6.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\buildings set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\ufo texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\Walls2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1B53270\Part 1.fbm\claw texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\Walls2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\Walls1_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\buildings set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\ufo texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BA3271\part 2.fbm\claw texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\Walls1_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\Walls2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\buildings set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\ufo texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1BF3272\part 3.fbm\claw texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\Walls2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\Walls1_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\ufo texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C43273\part 4.fbm\claw texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C93274\part 5.fbm\buildings set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C93274\part 5.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C93274\part 5.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C93274\part 5.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C93274\part 5.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C93274\part 5.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C93274\part 5.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1C93274\part 5.fbm\ufo texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\Walls1_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\mrt track texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\road texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\prop set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\buildings set 1 texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\trees_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\leaf_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\leaf2_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\ufo texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\B1CE3275\part 6.fbm\claw texture_0.xnb
+C:\Users\tsit\Documents\Visual Studio 2010\Projects\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\タイトル\Title.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\フォント\SpriteFont1.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Droid.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\DrawUsingShadowMap.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\ShadowMapCreator.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\Effect1.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\影\shadow.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\HandPointer.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Black.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\リザルトメニュー\exit.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count1.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count2.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count3.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\リザルトメニュー\playagain.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\go.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\タイトル\Title.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Skydome_UVSnapshot_Transparency_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.exe
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.pdb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.dll
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.exe
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.pdb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\6E613A7D\ui cube.fbm\menu cube texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part2.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\メインメニュー\ui cube.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part3.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part4.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part6.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part7.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\PartEnd.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\PartStart.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part1.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (2)_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (1)_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Bus_Stop_UVSnapshot_Textured_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Feedback\BOO.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Feedback\GOOD.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Feedback\PERFECT.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Progress Bar\HP.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Progress Bar\ProgressBar.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part5.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\teststage.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Station_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\VendingMachine_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\NYP_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 1.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 2.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Hand to left.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Hand to right.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\1.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\2.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\3.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\4.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\5.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\6.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\7.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\8.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\9.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 4.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 3.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\White.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\teststage2.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\skytest - Copy_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Part1 Plant Test.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Leaf Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Leaf_2_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\UFO_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Wall_Texture (2)_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Claw_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Lampost_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\TrainTrack_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Props_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Road_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\HDB_Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Tree Texture with Alpha_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_1.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_1.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\With Hit Animation.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Skateboard_UVSnapshot_Textured_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Head Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Body Texture_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\New Skydome.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 5.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Resume.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\0 Speed.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\1 Speed.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\2 Speed.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\3 Speed.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\4 Speed.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\New Pointer.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Game Over Screen.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Game Over Words.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Play Again.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Your Score.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 0.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 1.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 2.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 3.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 4.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 5.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 6.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 7.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 8.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 9.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Go.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Gratz.xnb
+C:\Users\111063e\Desktop\2013_P3_KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Victory Screen.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\フォント\SpriteFont1.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Droid.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part1.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\PartEnd.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\PartStart.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\teststage2.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\メインメニュー\ui cube.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part2.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part3.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part4.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part6.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part7.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Part5.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\teststage.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Part1 Plant Test.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\With Hit Animation.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\New Skydome.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\DrawUsingShadowMap.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\ShadowMapCreator.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\エフェクト\シャドウマップ\Effect1.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\影\shadow.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\HandPointer.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Black.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\リザルトメニュー\exit.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count1.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count2.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\count3.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\リザルトメニュー\playagain.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\ナンバー\go.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\タイトル\Title.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Feedback\BOO.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Feedback\GOOD.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Feedback\PERFECT.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Progress Bar\HP.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Progress Bar\ProgressBar.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 1.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 2.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Hand to left.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Hand to right.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\1.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\2.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\3.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\4.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\5.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\6.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\7.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\8.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Numbers\9.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 4.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 3.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\White.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Instructions\Page 5.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Resume.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\0 Speed.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\1 Speed.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\2 Speed.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\3 Speed.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Score Bar\4 Speed.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\New Pointer.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Game Over Screen.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Game Over Words.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Play Again.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Your Score.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 1.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 2.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 3.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 4.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 5.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 6.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 7.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 8.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Red Numbers\Red 9.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Go.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Gratz.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\テクスチャ\Menu\Victory Screen.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\UFO_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (2)_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Claw_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Alien Uncle\AO with Color_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Props_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Lampost_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\TrainTrack_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Road_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\HDB_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_2_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Props Project\sourceimages\Props\New Prop Textures_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\NYP_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Station_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Leaf_Texture_1.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\VendingMachine_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Bus_Stop_UVSnapshot_Textured_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Trees_Texture_1.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\skytest - Copy_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\FBX\4E9D3856\ui cube.fbm\menu cube texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Stages\Textures\Wall_Texture (1)_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\UFO_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Wall_Texture (2)_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Claw_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Lampost_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\TrainTrack_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Props_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Road_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\HDB_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Textures\Tree Texture with Alpha_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Leaf Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Alpha Test\Leaf_2_Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Skateboard_UVSnapshot_Textured_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Head Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Final Animation\Body Texture_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\Content\モデル\Skydome_UVSnapshot_Transparency_0.xnb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.exe
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\XNAFrameWork.pdb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.dll
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\bin\x86\Debug\SkinnedModel.pdb
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.exe
+C:\Users\111063e\Desktop\KINECT\DET\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.pdb
+C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.csprojResolveAssemblyReference.cache
+C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.exe
+C:\Users\121309D\Desktop\KinectUFO\XNAFrameWork\XNAFrameWork\obj\x86\Debug\XNAFrameWork.pdb
